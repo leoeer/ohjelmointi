@@ -1,0 +1,9 @@
+11 / 4 = 2.75	The first calculation is an ordinary division, and it calculates with decimal accuracy how many times the second number fits into the first one. 
+
+11 // 4 = 2	The second division does not show decimals, and only calculates and prints out how many times the 4 fits into 11 entirely. This leaves us with a modulo of 3, which		is not shown by using the 11 // 4 = calculation. 4 times 2 equals 8 and not 11, so it is important to know which one (/ or //) to use in which situation. 
+
+11 % 4 = 3	Here we can see the modulo that is not shown in the 11 // 4 = 2 calculation. This calculation only shows the modulo, and 
+		if the outcome of a calculation is 0 in this type of calculation, there is no modulo (jakojäännös in Finnish) left from the calculation.
+
+
+The calculations are related by being very similar to each other and working with the same values. Here we can see the importance of knowing which operator to use when writing code, because even if the values are correct, the answer is dependent on the operator used. It's important to think ahead of what kind of answer you're looking for, because in more complex calculations the computer interprets the calculations and operations literally. An operator mistake can cause an unwanted or inaccurate result, therefore making the calculation sort of useless. 

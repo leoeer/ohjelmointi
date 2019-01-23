@@ -1,0 +1,13 @@
+1. Syntax errors are caused by invalid syntaxes. These can be for example typos or missing characters in a string. An invalid syntax causes the interpreter not be able to "read" the instructions you're giving, because it's not in a form the program can understand. This can be a small thing, like a missing character, a typo or an open parenthesis. In Python a syntax error can also be caused by e.g. trying to create a variable that is also a Python keyword, e.g. class. 
+
+Semantic errors are different. They do not generate any error messages, but the error is in the code itself. Semantic errors are typically caused by the person writing code that does not actually know how to express their intentions correctly. The interpreter is doing its job as it should, but for example an answer to a calculation is incorrect. The program is doing everything in the way that it's told, but the variables and values or their order of operation can still be off. For example a program that expresses an amount of seconds in hours and minutes, an output like "13 hours and 200 minutes" would be considered as a semantic error. 
+
+
+2. a) Minun kissa on viha.
+
+   b) They're houses is make of wood. 
+
+
+3. a) Sinisen tunteen rasian kyljessä kissan uskonto oli iloinen.
+
+   b) Many can float politely not available because mom was transferred if you were seen as adolescence. 
